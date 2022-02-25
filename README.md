@@ -1,4 +1,4 @@
-# MontyHall
+# Monty Hall
 The Monty Hall problem is a famoous probability puzzle. The problems is posed like this:
 
 You are on a game show, and you're given the choice of three doors: Behind one door is a car; behind the others, goats. You pick a door, say Door 1, and the host, who knows what's behind the doors, opens Door 3, which has a goat. The host then says, "Do you want to stay with your original door or switch to Door 2?" Is it to your advantage to switch your choice?
